@@ -1,5 +1,0 @@
-{{#mohitrajparit}}
-Name: Mohit Raj Parit
-Skills: HTML, CSS, JS, React,NodeJs,ExpressJS,mongoDB,git
-Email: 2004mohitraj@gmail.com
-{{/mohitrajparit}}
